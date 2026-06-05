@@ -25,4 +25,13 @@ export const jobs = [
     type: "Hybrid",
     description: "Perform automation testing.",
   },
+  {
+    id: 4,
+    title: "Data Analyst",
+    company: "TCS",
+    location: "Pune",
+    type: "Hybrid",
+    description:
+      "Collect, analyze, and interpret data to identify trends, create dashboards, and support business decision-making.",
+  },
 ];
