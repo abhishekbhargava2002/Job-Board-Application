@@ -195,8 +195,8 @@ Every push to the main branch automatically triggers a new deployment.
 
 Production URL:
 
-https://your-vercel-url.vercel.app
-
+[https://your-vercel-url.vercel.app
+](https://job-board-application-livid.vercel.app/)
 ---
 
 # AI Tools Used
