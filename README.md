@@ -150,7 +150,7 @@ job-board-app/
 
 ## Clone Repository
 
-git clone https://github.com/yourusername/job-board-app.git
+git clone https://github.com/abhishekbhargava2002/Job-Board-Application.git
 
 ## Navigate to Project
 
